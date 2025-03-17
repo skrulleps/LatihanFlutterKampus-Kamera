@@ -16,5 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ### Screen Capture
-
-    ![Image](SC/merge-kameraFilter01.png)
+![Image](SC/merge-kameraFilter01.png)
