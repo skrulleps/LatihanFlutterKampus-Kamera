@@ -17,7 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Screen Capture
 
-    <img src="screen_capture/DisplayPicture.jpg" />
-    <img src="screen_capture/TakePicture.jpg" />
-    <img src="screen_capture/video.mp4" />
-    :::image type="content" source="../screen_capture/merge-kameraFilter01.png" alt-text="Merge-KameraFilter":::
+    ![Image](SC/merge-kameraFilter01.png)
